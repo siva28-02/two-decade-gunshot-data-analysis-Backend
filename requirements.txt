@@ -1,0 +1,7 @@
+#python -m uvicorn PubsubAPI:app --host 0.0.0.0
+fastapi
+uvicorn
+gunicorn
+pydantic
+pandas
+requests
